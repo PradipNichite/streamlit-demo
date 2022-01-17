@@ -5,7 +5,7 @@ import csv
 import tempfile
 
 
-x = st.slider('Select a value')
+# x = st.slider('Select a value')
 uploaded_file = st.file_uploader("Choose a file",type="csv")
 
 
